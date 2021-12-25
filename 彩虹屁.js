@@ -2,7 +2,7 @@
 // [rule: 彩虹屁]
 //接口ID 181
 //自己去 https://www.tianapi.com/apiview/181 申请KEY替换一下
-var key = "00c9bd10cb8ac42af92863c87c085136"; //天行数据申请的key网站https://www.tianapi.com/
+var key = ""; //天行数据申请的key网站https://www.tianapi.com/
 function main() {
   var content = request({
     // 内置http请求函数
